@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Aquí van los Strings de la interfaz del Login-->
+
+    <string name="app_name">ArkaMovil</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Ingresar</string>
+    <string name="titulo">Arka Movil</string>
+    <string name="etiqueta_usuario"> Usuario </string>
+    <string name="etiqueta_contrasenna"> Contraseña </string>
+    <string name="title_activity_menu">Menu</string>
+
+
+    <!--Aquí van los Strings de la interfaz del CasoUso1-->
+
+    <string name="id_acta">Id Acta</string>
+
+
+    <!--Aqui van los nombres de cada uno de los casos de uso-->
+
+    <string name="title_section1">CasoUso 1</string>
+    <string name="title_section2">CasoUso 2</string>
+    <string name="title_section3">CasoUso 3</string>
+    <string name="title_section4">CasoUso 4</string>
+    <string name="title_section5">CasoUso 5</string>
+    <string name="title_section6">CasoUso 6</string>
+    <string name="title_section7">CasoUso 7</string>
+    <string name="title_section8">CasoUso 8</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--<string name="action_example">Example action</string>-->
+    <string name="title_activity_casos">Casos</string>
+    <string name="title_activity_caso_uso1">CasoUso1</string>
+
+</resources>
